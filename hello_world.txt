@@ -1,0 +1,1 @@
+This is my dirst try to stage a file in git
